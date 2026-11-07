@@ -46,3 +46,15 @@ Focus| DSA & Problem Solving
 This repository represents my continuous learning journey in programming. Each solution is an opportunity to understand a concept better, write cleaner code, and develop a stronger approach to problem-solving.
 
 Consistency over perfection. One problem at a time.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/plant56048-lgtm/LeetCode---solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/plant56048-lgtm/LeetCode---solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
